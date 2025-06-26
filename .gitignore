@@ -165,4 +165,5 @@ cython_debug/
 .vercel
 
 # DES - Added this to avoid Git LFS issues
+frontend/.next/
 frontend/node_modules/
